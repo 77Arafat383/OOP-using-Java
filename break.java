@@ -7,7 +7,8 @@ class breaking {
         for(int i=0; i<num; i++)
         {
             if(i*i>=num) break;
-            sout
+            
+            
         }
     }
 }
